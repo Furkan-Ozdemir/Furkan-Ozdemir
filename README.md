@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Engineering Student and a  React Developer
+I am a Computer Engineer
 
 
 ## 🌐 Socials:
